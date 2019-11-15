@@ -1,5 +1,5 @@
 #! /bin/bash
-# myusername.sh
+#username.sh
 # author
 echo "Enter your username: "
 read USR
